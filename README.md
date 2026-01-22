@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Om Gupta</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1919&height=200&section=header&text=Hi%20👋,%20I'm%20Om%20Gupta&fontSize=70&fontColor=ffffff&animation=glitching&fontAlignY=40" width="100%" alt="Header" />
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=🤖+AI%2FML+Engineer;🧠+Building+Agentic+AI+Systems;🎓+MS+at+Northeastern+University;🚀+Interning+at+Geode+Blockchain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=1500&pause=1000&color=336699&center=true&vCenter=true&width=800&height=70&lines=🤖+AI%2FML+Engineer;🧠+Building+Agentic+AI+Systems;🎓+MS+at+Northeastern+University;🚀+Interning+at+Geode+Blockchain;🤖+Built+iOS+Vision+intelligence+App" alt="Typing SVG" />
   </a>
 </p>
 
-<p align="center">
-Exploring the frontiers of Generative AI and developing intelligent, autonomous agents.
-</p>
+<h3 align="center">
+  Exploring the frontiers of Generative AI and developing intelligent, autonomous agents.
+</h3>
 
 ---
 
