@@ -35,11 +35,11 @@ Exploring the frontiers of Generative AI and developing intelligent, autonomous 
 <h3 align="center">🛠 The AI/ML Arsenal</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,scikitlearn,opencv&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ai,python,swift,cpp,pytorch,tensorflow,fastapi,flask,aws,opencv,postgres,mysql,sqlite,mongodb,yarn&theme=dark" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,docker,kubernetes,aws,gcp,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=django,js,html,css,react,nodejs,nestjs,docker,kubernetes,kafka,kotlin,jenkins,heroku,pycharm,r,gcp,git,github,npm,discord,figma,flutter,linux,latex,stackoverflow,matlab,octave,replit,windows,vscode&theme=dark" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/🦜🔗_LangChain-Agentic_Workflows-blue?style=for-the-badge&logo=none" alt="Langchain">
