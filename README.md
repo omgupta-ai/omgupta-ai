@@ -27,9 +27,9 @@ Exploring the frontiers of Generative AI and developing intelligent, autonomous 
       <br>
       <b>⚡ Fun Facts & Interests:</b>
       <ul>
-        <li>🥘 <b>Foodie:</b> I love cooking traditional Indian vegetarian dishes (ask me about my pressure cooker recipes!).</li>
-        <li>🎥 <b>Cinema:</b> A Bollywood buff always looking for good recommendations.</li>
-        <li>🏙️ <b>Location:</b> Based in Boston, MA.</li>
+        <li>🥘 I love cooking traditional Indian vegetarian dishes (ask me about my pressure cooker recipes!).</li>
+        <li>🎥 A Big Netflix buff always looking for good recommendations.</li>
+        <li>🏙️ Lives in Boston, MA.</li>
       </ul>
     </td>
     <td width="40%" valign="center" align="center" border="0">
