@@ -18,10 +18,18 @@ Exploring the frontiers of Generative AI and developing intelligent, autonomous 
       <h3>🧐 About Me</h3>
       <ul>
         <li>Currently pursuing a <b>Master's in Applied Machine Intelligence</b> at <b>Northeastern University</b> (Boston MA).</li>
-        <li>Working as an AI/ML Engineering Intern at <b>Geode Blockchain</b>.</li>
+        <li><b>Current Role:</b> Building scalable systems as an SDE Co-op at <b>Geode Blockchain</b>.</li>
+        <li><b>Tech Focus:</b> Orchestrating complex workflows using <b>LangGraph</b> and <b>n8n</b>.</li>
+        <li><b>Mission:</b> Moving beyond chatbots to build fully autonomous <b>Agentic AI</b>.</li>
         <li>Proud Alumni of <b>IIIT Nagpur</b> (Electronics & Communication).</li>
         <li>Proud Alumni of <b>IIT Madras</b> (Data Science).</li>
-        <li>Focusing on <b>Multi-Modal LLMs<b> and <b>Advanced Agentic Workflows<b>.</li>
+      </ul>
+      <br>
+      <b>⚡ Fun Facts & Interests:</b>
+      <ul>
+        <li>🥘 <b>Foodie:</b> I love cooking traditional Indian vegetarian dishes (ask me about my pressure cooker recipes!).</li>
+        <li>🎥 <b>Cinema:</b> A Bollywood buff always looking for good recommendations.</li>
+        <li>🏙️ <b>Location:</b> Based in Boston, MA.</li>
       </ul>
     </td>
     <td width="40%" valign="center" align="center" border="0">
