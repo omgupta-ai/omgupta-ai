@@ -39,7 +39,7 @@ Exploring the frontiers of Generative AI and developing intelligent, autonomous 
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wandb,huggy,docker,kubernetes,aws,gcp,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,docker,kubernetes,aws,gcp,git&theme=dark" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/🦜🔗_LangChain-Agentic_Workflows-blue?style=for-the-badge&logo=none" alt="Langchain">
