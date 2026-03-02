@@ -21,7 +21,7 @@
       <ul>
         <li>Currently pursuing a <b>Master's in Applied Machine Intelligence</b> at <b>Northeastern University</b> (Boston MA).</li>
         <li><b>Current Role:</b> Building scalable systems as an SDE Co-op at <b>Geode Blockchain</b>.</li>
-        <li><b>Tech Focus:</b> Orchestrating complex workflows using <b>LangGraph</b> and <b>n8n</b>.</li>
+        <li><b>Tech Focus:</b> Orchestrating complex workflows using <b>LangGraph</b> .</li>
         <li><b>Mission:</b> Moving beyond chatbots to build fully autonomous <b>Agentic AI</b>.</li>
         <li>Proud Alumni of <b>IIIT Nagpur</b> (Electronics & Communication).</li>
         <li>Proud Alumni of <b>IIT Madras</b> (Data Science).</li>
